@@ -22,7 +22,7 @@ I'm Front-End Developer 💻<br><br><br>I’m a passionate front-end developer w
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aliabbasi2000) 
 
 # 💻 Tech Stack:
-<div align="center">
+<div>
   
   **Frontend Technologies**  
   ![HTML5](https://img.shields.io/badge/HTML5-ff5733?style=for-the-badge&logo=html5&logoColor=white)
