@@ -23,7 +23,7 @@ I'm Front-End Developer 💻<br><br><br>I’m a passionate front-end developer w
 
 # 💻 Tech Stack:
 
-<div align="center">
+<div>
 
   **Core Technologies**  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
